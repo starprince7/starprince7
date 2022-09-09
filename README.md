@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a cross-platform ecommerce mobile app.
 - 🌱 I’m also learning motoko for blockchain development on the Internet computer.
-- 📫 Please feel free to reach out to me, in the mean time check out my [https://www.princenweke.com](portfolio)
+- 📫 Please feel free to reach out to me, in the mean time check out my (portfolio)[https://www.princenweke.com]
