@@ -1,4 +1,4 @@
-![alt text](https://miro.medium.com/max/1000/1*Gbi_XNOkPFbWkIkJC7LnBQ.gif)
+![alt text](https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif)
 
 ### Hi there 👋
 
