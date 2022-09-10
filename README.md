@@ -1,6 +1,6 @@
 ![alt text](https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif)
 
-#### Hi there 👋
+### Hi there 👋
 
 I'm a full-stack developer that excels at finding elegant solutions to challenges. I'm also a talented problem-solver, quick study, team player, and client-satisfaction expert who is very motivated to work as a member of a team to produce high-quality products and services.
 
