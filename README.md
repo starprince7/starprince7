@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a cross-platform ecommerce mobile app.
+- 🔭 I’m currently working on a cross-platform ecommerce mobile app [source code](https://github.com/starprince7/Viss-Shopping-Mobile-App).
 - 🌱 I’m also learning motoko for blockchain development on the Internet computer.
 - 📫 Please feel free to reach out to me, in the mean time check out my [portfolio](https://www.princenweke.com)
