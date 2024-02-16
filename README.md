@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-## I'm Prince the creator of React Native Naira.
+# I'm Prince the creator of React Native Naira.
 
 I'm a full-stack developer that excels at finding elegant solutions to challenges. I'm also a talented problem-solver, quick study, team player, and client-satisfaction expert who is very motivated to work as a member of a team to produce high-quality products and services.
 
